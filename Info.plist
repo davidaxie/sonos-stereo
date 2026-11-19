@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>local.sonos-stereo</string>
+	<key>CFBundleName</key>
+	<string>sonos-stereo</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>sonos-stereo listens to test clicks from your speakers to line them up in time.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>sonos-stereo connects your second Sonos speaker when the first one connects, so they can play as a stereo pair.</string>
+</dict>
+</plist>
